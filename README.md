@@ -6,7 +6,7 @@
 
 
 
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/aruack)
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/officalkumar)
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -59,5 +59,5 @@
 - FOR [Support](https://telegram.dog/Aruacksupport)
 
 
-- OUR [wEbSiTE](https://aruack.com)
+- OUR [wEbSiTE](http://aruack.github.io)
 
