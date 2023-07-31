@@ -12,7 +12,7 @@
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
- 
+ Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aryankumarmuz
 
 <h4 align="center"><b>MY GITHUB STATS -❤️</b></h4>
  
