@@ -45,7 +45,7 @@
 
 ### My Device
 
-- Dell optical 390 
+- Dell optiplex 390
 - Lenovo Thinkcentre
 - Asus Vivobook Pro 14
 
